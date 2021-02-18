@@ -6,7 +6,7 @@ const Home = () => {
   <div>
     <Navbar/>
   <div>
-    <h1>Home Page</h1>
+    <h1 style={{color: "blue"}}>Home Page</h1>
   </div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="#">Navbar</a>

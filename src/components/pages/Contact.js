@@ -5,7 +5,7 @@ const Contact = () => {
   
   <div>
   <div>
-    <h1>Contact Page</h1>
+    <h1 style={{color: "blue"}}>Contact Page</h1>
   </div>
     <Navbar />
    

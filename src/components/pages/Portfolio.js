@@ -13,8 +13,13 @@ const cardStyle = {
 
 const Portfolio = () => {
   return (
-    <div>
-      <Navbar />
+  <div>
+    <Navbar/>
+  <div>
+     
+        <h1 style={{color: "blue"}}>Portfolio</h1>
+      </div>
+        <Navbar />
 
       <div class="container">
         <div class="project-card" style={cardStyle}>
